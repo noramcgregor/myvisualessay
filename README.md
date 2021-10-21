@@ -4,7 +4,7 @@
 <param ve-config 
        title="Random Thanksgiving Images around the World"
        author="Nora"
-       banner="https://iiif.juncture-digital.org/banner/?url=http://www.bl.uk/IllImages/BLStudio/mid/Addvarious/add_ms_5762_f028r.jpg" 
+       banner="https://www.qdl.qa/en/iiif/81055/vdc_100000000282.0x000121/manifest" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
