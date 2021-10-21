@@ -2,8 +2,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="Random Thanksgiving Images around the World"
+       author="Nora"
        banner="https://iiif.juncture-digital.org/banner/?url=http://www.bl.uk/IllImages/BLStudio/mid/Addvarious/add_ms_5762_f028r.jpg" 
        layout="vertical">
 
@@ -13,7 +13,7 @@
 <param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q472"> <!-- Sofia, Bulgaria -->
 
 # Sample visual essay
 
@@ -23,7 +23,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
-## Image
+## Thanksgiving Day in the Baptist Church in Lom
 
 Ние проповядваме разпнатия Христос. Мисли пред кого стоиш. Лом, септември 1958 г
 Nie propoviadvame razpnatia Khristos. Misli pred kogo stoish. Lom, Sepemvri 1958
@@ -33,12 +33,12 @@ Nie propoviadvame razpnatia Khristos. Misli pred kogo stoish. Lom, Sepemvri 1958
        label="Thanksgiving" 
        description="Thanksgiving Day in the Baptist Church in Lom. 1 September 1958 Pastor Ivan Angelov had a sermon. He came earlier back from prison." 
        license="public domain" 
-       url="https://eap.bl.uk/archive-file/EAP1145-24-1/manifest?canvas=https%3A//eap.bl.uk/archive-file/EAP1145-24-1/canvas/7&manifest=https%3A//eap.bl.uk/archive-file/EAP1145-24-1/manifest">
+       url="https://eap.bl.uk/item/EAP1145-24-1-6#?c=0&m=0&s=0&cv=5&xywh=883%2C959%2C1889%2C1329">
 
 ## Map
 
 The original material is located at the private residence of Theodor Angelov, in Sofia, Bulgaria.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q472" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
@@ -50,5 +50,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [From Endangered Archives Programme](https://eap.bl.uk/item/EAP1145-24-1-6)
 
