@@ -1,4 +1,4 @@
-# myvisualessay
+# Thanksgiving Random
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
@@ -25,19 +25,19 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Ние проповядваме разпнатия Христос. Мисли пред кого стоиш. Лом, септември 1958 г
+Nie propoviadvame razpnatia Khristos. Misli pred kogo stoish. Lom, Sepemvri 1958
+
+[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Thanksgiving" 
+       description="Thanksgiving Day in the Baptist Church in Lom. 1 September 1958 Pastor Ivan Angelov had a sermon. He came earlier back from prison." 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://eap.bl.uk/archive-file/EAP1145-24-1/manifest?canvas=https%3A//eap.bl.uk/archive-file/EAP1145-24-1/canvas/7&manifest=https%3A//eap.bl.uk/archive-file/EAP1145-24-1/manifest">
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+The original material is located at the private residence of Theodor Angelov, in Sofia, Bulgaria.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
