@@ -18,8 +18,8 @@
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.qdl.qa/iiif/images/81055/vdc_100000000282.0x000121/IOR_R_15_2_1554_0340.jp2/full/54,/0/default.jpg">
+<param ve-image seq="7"
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_0000000421F8/manifest.json">
 
 # Basic usage
 
